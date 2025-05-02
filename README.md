@@ -7,7 +7,7 @@ Ini adalah ringkasan dari proyek-proyek saya di bidang data, mencakup analisis s
 
 ## 📑 Daftar Isi
 
-- [📉 Proyek SPSS (Analisis Statistik)](#-proyek-spss-analisis-statistik)
+- [📉 Prject EXCEL](#-project-DSA-excel)
 - [🛢️ Proyek SQL](#-proyek-sql)
 - [🐍 Proyek Python](#-proyek-python)
 - [📈 Dashboard Visualisasi](#-dashboard-visualisasi)
@@ -15,11 +15,11 @@ Ini adalah ringkasan dari proyek-proyek saya di bidang data, mencakup analisis s
 
 ---
 
-## 📉 Proyek SPSS (Analisis Statistik)
+## 📉 Project EXCEL 
 
-| Judul Proyek | Tools | Deskripsi |
+| Judul Project | Tools | Deskripsi |
 |--------------|-------|-----------|
-| 📌 [Analisis Kepuasan Pelanggan](https://link-ke-proyek.com) | SPSS | Menganalisis hasil survei kepuasan pelanggan menggunakan uji statistik seperti ANOVA dan regresi linier. Disimpulkan faktor-faktor yang memengaruhi kepuasan. |
+| 📌 [Project DSA excel](https://github.com/achmadhavid/DSAREA) | MICROSOFT EXCEL | Proyek ini mencakup berbagai latihan dan studi kasus dalam menggunakan formula Excel tingkat lanjut untuk keperluan analisis data. Setiap sheet menunjukkan penggunaan rumus yang berbeda dan penerapannya secara praktis. |
 
 ---
 
