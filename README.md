@@ -8,8 +8,8 @@ Ini adalah ringkasan dari proyek-proyek saya di bidang data, mencakup analisis s
 ## 📑 Daftar Isi
 
 - [📉 Prject EXCEL](#-project-DSA-excel)
-- [🛢️ Proyek SQL](#-proyek-sql)
-- [🐍 Proyek Python](#-proyek-python)
+- [🛢️ Project SQL](#-project-sql)
+- [🐍 Project Python](#-project-python)
 - [📈 Dashboard Visualisasi](#-dashboard-visualisasi)
 - [🎓 Pelatihan dan Sertifikasi](#-pelatihan-dan-sertifikasi)
 
@@ -23,11 +23,11 @@ Ini adalah ringkasan dari proyek-proyek saya di bidang data, mencakup analisis s
 
 ---
 
-## 🛢️ Proyek SQL
+## 🛢️ Projeck SQL
 
-| Judul Proyek | Tools | Deskripsi |
+| Judul Project | Tools | Deskripsi |
 |--------------|-------|-----------|
-| 🧾 [Analisis Penjualan Retail](https://link-ke-proyek.com) | MySQL, PostgreSQL | Membuat kueri kompleks untuk menghitung KPI seperti total penjualan, rata-rata pembelian, dan segmentasi pelanggan. |
+| 🧾 [Rakamin at kimia farma tbk.](https://github.com/achmadhavid/RAKAMIN-KF-analytics) | google big query | Sebagai seorang Big Data Analytics Intern di Kimia Farma, saya berkontribusi dalam mengevaluasi performa bisnis dari tahun 2020 hingga 2023 melalui berbagai tahapan data engineering dan data analysis. |
 
 ---
 
