@@ -49,9 +49,12 @@ Ini adalah ringkasan dari proyek-proyek saya di bidang data, mencakup analisis s
 
 ## 🎓 Pelatihan dan Sertifikasi
 
-- ✅ [Google Data Analytics Certificate - Coursera](https://link-sertifikat.com)
-- ✅ [Data Science with Python - DQLab](https://link-sertifikat.com)
-- ✅ [SQL for Data Analysis - Udemy](https://link-sertifikat.com)
+- ✅ [Advanced SQL - Kaggle](https://drive.google.com/file/d/1C_KHO-Q67mgElb_EoQBP7k_KORPcVZUa/view?usp=sharing)
+- ✅ [certificate of achievement - Rakamin at Kimia farma](https://drive.google.com/file/d/1NblrzhkLJsgeouAXyS-1vJYJ1wTrjKiO/view?usp=sharing)
+- ✅ [Guide to Learn SQL with AI - DQlab]([https://link-sertifikat.com](https://drive.google.com/file/d/12MtZfOyI5mD49jJdKkxjd-EKJX5qAh_G/view?usp=sharing))
+- ✅ [Data analyst - DSAREA](https://drive.google.com/file/d/1JEHD1OnPNwdscG3ktCzIm4_r4GaMRQFZ/view?usp=sharing)
+- ✅ [certificate of accomplishment - HackerRank](https://drive.google.com/file/d/12yjSotWJSUNqoy1c7TRArEYk5Br9Myzz/view?usp=sharing)
+- ✅ [Intro to data analyst - RevoU](https://drive.google.com/file/d/1QephpkXaRPFP3dky7fvsxndcGdV1ndET/view?usp=sharing)
 
 ---
 
@@ -59,9 +62,9 @@ Ini adalah ringkasan dari proyek-proyek saya di bidang data, mencakup analisis s
 
 Hubungi saya jika ingin berdiskusi atau berkolaborasi!
 
-- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
-- Email: yourname@email.com
-- Website/Portofolio: [yourportfolio.com](https://yourportfolio.com)
+- LinkedIn: [linkedin.com/in/achmad havid](https://www.linkedin.com/in/achmad-havid/)
+- Email: ahmadhavid05@email.com
+- Portofolio: [link-portofolio](https://drive.google.com/file/d/1kjb6g30IE2s58kUYGjNfDh-97c1DL6Jw/view?usp=drive_link)
 
 ---
 
