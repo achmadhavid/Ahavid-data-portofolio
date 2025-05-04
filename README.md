@@ -28,6 +28,8 @@ Ini adalah ringkasan dari proyek-proyek saya di bidang data, mencakup analisis s
 | Judul Project | Tools | Deskripsi |
 |--------------|-------|-----------|
 | 🧾 [Rakamin at kimia farma tbk.](https://github.com/achmadhavid/RAKAMIN-KF-analytics) | google big query | Sebagai seorang Big Data Analytics Intern di Kimia Farma, saya berkontribusi dalam mengevaluasi performa bisnis dari tahun 2020 hingga 2023 melalui berbagai tahapan data engineering dan data analysis. |
+|              |       |           |
+| 🧾 [intro to SQL micro-course by Kaggle](https://github.com/achmadhavid/Ahavid-data-portofolio/blob/main/analytic-functions.ipynb) | micro-course kaggle | menggunakan fungsi analitik untuk menghitung jumlah kumulatif perjalanan untuk setiap tanggal pada tahun 2015. |
 
 ---
 
@@ -41,7 +43,7 @@ Ini adalah ringkasan dari proyek-proyek saya di bidang data, mencakup analisis s
 
 ## 🐍 Project Python
 
-| Judul Proyek | Libraries | Deskripsi |
+| Judul Project | Libraries | Deskripsi |
 |--------------|-----------|-----------|
 | 🧠 [Prediksi Churn Pelanggan](https://link-ke-proyek.com) | Pandas, Scikit-learn, Matplotlib | Mengolah data pelanggan, membangun model klasifikasi untuk prediksi churn, serta visualisasi insight menggunakan grafik. |
 
