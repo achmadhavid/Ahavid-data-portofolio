@@ -31,6 +31,14 @@ Ini adalah ringkasan dari proyek-proyek saya di bidang data, mencakup analisis s
 
 ---
 
+##  storytelling data
+
+| Judul Project | Tools | Deskripsi |
+|--------------|-------|-----------|
+| 🧾 [Bali Popular Destination for Tourist 2022](https://github.com/achmadhavid/DICODING/tree/main/DICODING/storytelling%20data) | google docs | Berlatar belakang di Bali yang merupakan destinasi wisata dengan tingkat pengunjung tinggi dan berasumsi bahwa semua destinasi wisata memiliki kualitas wisata yang sama. Namun, pada kenyataannya sebuah data menunjukan bahwa terdapat beberapa destinasi yang memiliki rating di bawah rata-rata. Oleh karena itu, dari permasalahan tersebut, perlu dikaji lebih dalam destinasi yang berada di bawah rata-rata dan yang memiliki rating paling rendah untuk menentukan langkah yang perlu diambil untuk meningkatkan rating destinasi wisata tersebut menggunakan SMART Questions |
+
+---
+
 ## 🐍 Proyek Python
 
 | Judul Proyek | Libraries | Deskripsi |
