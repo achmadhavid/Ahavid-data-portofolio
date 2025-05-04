@@ -23,7 +23,7 @@ Ini adalah ringkasan dari proyek-proyek saya di bidang data, mencakup analisis s
 
 ---
 
-## 🛢️ Projeck SQL
+## 🛢️ Project SQL
 
 | Judul Project | Tools | Deskripsi |
 |--------------|-------|-----------|
@@ -39,7 +39,7 @@ Ini adalah ringkasan dari proyek-proyek saya di bidang data, mencakup analisis s
 
 ---
 
-## 🐍 Proyek Python
+## 🐍 Project Python
 
 | Judul Proyek | Libraries | Deskripsi |
 |--------------|-----------|-----------|
@@ -51,7 +51,7 @@ Ini adalah ringkasan dari proyek-proyek saya di bidang data, mencakup analisis s
 
 | Judul Dashboard | Tools | Deskripsi |
 |------------------|--------|-----------|
-| 📊 [Dashboard Penjualan Global](https://link-ke-dashboard.com) | Tableau / Looker Studio | Dashboard interaktif yang menunjukkan tren penjualan berdasarkan wilayah, produk, dan profitabilitas. |
+| 📊 [Dashboard Performance analytics kimia farma](https://lookerstudio.google.com/reporting/35c4be1e-d143-480e-bee0-d5ff4cb0dfd8) | Looker Studio | Dashboard interaktif yang menunjukkan tren penjualan berdasarkan wilayah, produk, dan profitabilitas. |
 
 ---
 
