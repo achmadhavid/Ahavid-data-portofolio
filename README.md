@@ -20,6 +20,8 @@ Ini adalah ringkasan dari proyek-proyek saya di bidang data, mencakup analisis s
 | Judul Project | Tools | Deskripsi |
 |--------------|-------|-----------|
 | 📌 [Project DSA excel](https://github.com/achmadhavid/DSAREA) | MICROSOFT EXCEL | Proyek ini mencakup berbagai latihan dan studi kasus dalam menggunakan formula Excel tingkat lanjut untuk keperluan analisis data. Setiap sheet menunjukkan penggunaan rumus yang berbeda dan penerapannya secara praktis. |
+|              |       |           |
+| 📌 [US_flight_delay](https://github.com/achmadhavid/DSAREA/blob/main/US_flight_delay/airline_delay_cause.xlsx) | MICROSOFT EXCEL | mempersiapkan data untuk di buat dashboard mulai dari menghapus duplikat & spasi yang berlebih, filter data dsb, |
 
 ---
 
@@ -54,6 +56,8 @@ Ini adalah ringkasan dari proyek-proyek saya di bidang data, mencakup analisis s
 | Judul Dashboard | Tools | Deskripsi |
 |------------------|--------|-----------|
 | 📊 [Dashboard Performance analytics kimia farma](https://lookerstudio.google.com/reporting/35c4be1e-d143-480e-bee0-d5ff4cb0dfd8) | Looker Studio | Dashboard interaktif yang menunjukkan tren penjualan berdasarkan wilayah, produk, dan profitabilitas. |
+|              |       |           |
+| 🧾 [Dashboard US flight dealay](https://github.com/achmadhavid/DSAREA/blob/main/US_flight_delay/US_flight_delay.twb) | Tableau | Dashboard yang menunjukkan delay penerbangan yang ada di amerika lanjutan dari project excel. |
 
 ---
 
